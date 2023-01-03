@@ -1,5 +1,6 @@
 # StatLearn_with_R
-using the book : an Introduction to Statistical learning , with Applications in R , 2nd Edition
+Using the book : An Introduction to Statistical learning , with Applications in R\
+2nd Edition\
 by: Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani
 
 Chapters:
@@ -16,6 +17,6 @@ Chapters:
 10 Deep Learning\
 11 Survival Analysis and Cencored Data\
 12 Unsupervised Learning\
-13 Multiple Testing\
+13 Multiple Testing
 
 TBC...
