@@ -4,10 +4,10 @@ by: Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani
 
 Chapters:
 
-1 Introduction
-2 Statistical Learning
-3 Linear Regression
-4 Classification
+1 Introduction\
+2 Statistical Learning\
+3 Linear Regression\
+4 Classification\
 5 Resampling Methods
 6 Linear Model Selection and Regularization
 7 Moving Beyond Linearity
