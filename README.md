@@ -8,14 +8,14 @@ Chapters:
 2 Statistical Learning\
 3 Linear Regression\
 4 Classification\
-5 Resampling Methods
-6 Linear Model Selection and Regularization
-7 Moving Beyond Linearity
-8 Tree-Based Models
-9 Support Vector MAchines
-10 Deep Learning
-11 Survival Analysis and Cencored Data
-12 Unsupervised Learning
-13 Multiple Testing
+5 Resampling Methods\
+6 Linear Model Selection and Regularization\
+7 Moving Beyond Linearity\
+8 Tree-Based Models\
+9 Support Vector MAchines\
+10 Deep Learning\
+11 Survival Analysis and Cencored Data\
+12 Unsupervised Learning\
+13 Multiple Testing\
 
 TBC...
